@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-Hi there, I'm Md Rafid Abrar Zamee 👋
+Hi there, I'm Zamee 👋
 
 IT Consultant & Cloud Architect specializing in Azure Infrastructure, Microsoft 365 Governance, and Zero-Trust Cybersecurity.
 
